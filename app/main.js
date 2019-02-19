@@ -1,11 +1,6 @@
 import MarvelController from "./components/marvelController.js";
 
 
-
-
-
-
-
 class App {
     constructor() {
         this.controllers = {
